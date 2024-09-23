@@ -1,0 +1,20 @@
+
+header{
+    background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+    overflow: hidden;
+}
+
+.navbar-brand{
+    color: rgb(54, 54, 179);
+}
+
+.nav-link{
+    color: rgb(54, 54, 179);
+}
+
+.nav-link active{
+    color: rgb(54, 54, 179);
+    font-weight: 500;
+}
+
+
