@@ -6,7 +6,7 @@
 
 body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #ebf5fc;
+    background-color: #7ec2f3;
     /* overflow-x: hidden; */
     width: 100vw;
 }
@@ -16,7 +16,7 @@ html{
 }
 
 p{
-    color: rgb(85, 85, 85);
+    color: rgb(155, 11, 11);
 }
 
 
@@ -42,8 +42,7 @@ nav{
     list-style: none;
     padding: 18px 65px;
     font-size: 1.5rem;
-    border-radius: 50px;
-  
+    border-radius: 50px; 
                 
 }
 
@@ -217,7 +216,7 @@ section{
 html, body{
     display: grid;
     height: 100%;
-    width: 100%;
+    width: 100px;
     /* background-color: #6a9bd8; */
     /* place-items: center; */
     background: linear-gradient(315deg, #ffffff 0%, #e7eaed 74%);
@@ -264,13 +263,6 @@ html, body{
     transition: all 0.3s ease-out;
 }
 
-/* .social-container .button:nth-child(1) .icon{
-    background: #b5a5a5;
-}
-
-.social-container .button:nth-child(2) .icon{
-    background: rgb(47, 57, 70);
-}  */
 
 .social-container .button .icon i{
     font-size: 25px;
